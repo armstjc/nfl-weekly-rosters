@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1972,
+        "SeasonType": "REG",
+        "Week": 7,
+        "EliasID": null,
+        "GsisID": "00-0015575",
+        "JerseyNumber": "74",
+        "LastName": "Starke",
+        "FootballName": "George",
+        "FirstName": "George",
+        "Position": "T",
+        "PositionDescription": "Tackle",
+        "EntryYear": 1971,
+        "RookieYear": 1971,
+        "Height": "6'05\"",
+        "Weight": 260,
+        "Birthdate": "1948-07-18T00:00:00",
+        "DraftClub": "WAS",
+        "DraftNumber": 272,
+        "Draftround": 11,
+        "CurrentClub": "WAS",
+        "College": "Columbia",
+        "CollegeConference": "Ivy League",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 15232
+    }
+]

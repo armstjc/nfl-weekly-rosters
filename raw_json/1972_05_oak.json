@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1972,
+        "SeasonType": "REG",
+        "Week": 5,
+        "EliasID": null,
+        "GsisID": "00-0016801",
+        "JerseyNumber": "0",
+        "LastName": "Upshaw",
+        "FootballName": "Gene",
+        "FirstName": "Gene",
+        "Position": "G",
+        "PositionDescription": "Guard",
+        "EntryYear": 1967,
+        "RookieYear": 1967,
+        "Height": "6'05\"",
+        "Weight": 255,
+        "Birthdate": "1945-08-15T00:00:00",
+        "DraftClub": "OAK",
+        "DraftNumber": null,
+        "Draftround": 1,
+        "CurrentClub": "OAK",
+        "College": "Texas A&amp;M-Kingsville",
+        "CollegeConference": "Lone Star Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 16190
+    }
+]

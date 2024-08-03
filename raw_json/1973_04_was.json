@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1973,
+        "SeasonType": "REG",
+        "Week": 4,
+        "EliasID": null,
+        "GsisID": "00-0004663",
+        "JerseyNumber": "59",
+        "LastName": "Dusek",
+        "FootballName": "Brad",
+        "FirstName": "Brad",
+        "Position": "LB",
+        "PositionDescription": "Linebacker",
+        "EntryYear": 1973,
+        "RookieYear": 1973,
+        "Height": null,
+        "Weight": 0,
+        "Birthdate": "1950-12-13T00:00:00",
+        "DraftClub": "NE",
+        "DraftNumber": 56,
+        "Draftround": 3,
+        "CurrentClub": "WAS",
+        "College": "Texas A&amp;M",
+        "CollegeConference": "Big Twelve Conference",
+        "StatusDescriptionAbbr": "I01",
+        "StatusShortDescription": "Inactive",
+        "Playerid": 6741
+    }
+]

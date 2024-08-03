@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1971,
+        "SeasonType": "REG",
+        "Week": 3,
+        "EliasID": null,
+        "GsisID": "00-0000260",
+        "JerseyNumber": "77",
+        "LastName": "Alzado",
+        "FootballName": "Lyle",
+        "FirstName": "Lyle",
+        "Position": "DE",
+        "PositionDescription": "Defensive End",
+        "EntryYear": 1971,
+        "RookieYear": 1971,
+        "Height": "6'03\"",
+        "Weight": 260,
+        "Birthdate": "1949-04-03T00:00:00",
+        "DraftClub": "DEN",
+        "DraftNumber": 79,
+        "Draftround": 4,
+        "CurrentClub": "DEN",
+        "College": "Yankton, S.D.",
+        "CollegeConference": "NO FOOTBALL",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 3337
+    }
+]

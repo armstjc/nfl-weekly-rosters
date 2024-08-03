@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1972,
+        "SeasonType": "REG",
+        "Week": 7,
+        "EliasID": null,
+        "GsisID": "00-0007441",
+        "JerseyNumber": "62",
+        "LastName": "Hill",
+        "FootballName": "John",
+        "FirstName": "John",
+        "Position": "C",
+        "PositionDescription": "Center",
+        "EntryYear": 1972,
+        "RookieYear": 1972,
+        "Height": "6'02\"",
+        "Weight": 246,
+        "Birthdate": "1950-04-16T00:00:00",
+        "DraftClub": "NYG",
+        "DraftNumber": 132,
+        "Draftround": 6,
+        "CurrentClub": "NYG",
+        "College": "Lehigh",
+        "CollegeConference": "Patriot League",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 8882
+    }
+]

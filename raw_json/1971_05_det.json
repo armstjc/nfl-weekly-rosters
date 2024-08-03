@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1971,
+        "SeasonType": "REG",
+        "Week": 5,
+        "EliasID": null,
+        "GsisID": "00-0017353",
+        "JerseyNumber": "59",
+        "LastName": "Weaver",
+        "FootballName": "Charlie",
+        "FirstName": "Charles",
+        "Position": "LB",
+        "PositionDescription": "Linebacker",
+        "EntryYear": 1971,
+        "RookieYear": 1971,
+        "Height": "6'02\"",
+        "Weight": 225,
+        "Birthdate": "1949-07-12T00:00:00",
+        "DraftClub": "DET",
+        "DraftNumber": 48,
+        "Draftround": 2,
+        "CurrentClub": "DET",
+        "College": "Southern California",
+        "CollegeConference": "Pacific Ten Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 16637
+    }
+]

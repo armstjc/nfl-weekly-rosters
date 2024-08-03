@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1971,
+        "SeasonType": "REG",
+        "Week": 12,
+        "EliasID": null,
+        "GsisID": "00-0004550",
+        "JerseyNumber": "0",
+        "LastName": "Dryer",
+        "FootballName": "Fred",
+        "FirstName": "Fred",
+        "Position": "DE",
+        "PositionDescription": "Defensive End",
+        "EntryYear": 1969,
+        "RookieYear": 1969,
+        "Height": null,
+        "Weight": 0,
+        "Birthdate": null,
+        "DraftClub": null,
+        "DraftNumber": 13,
+        "Draftround": 1,
+        "CurrentClub": "NYG",
+        "College": "San Diego State",
+        "CollegeConference": "Mountain West Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 6646
+    }
+]

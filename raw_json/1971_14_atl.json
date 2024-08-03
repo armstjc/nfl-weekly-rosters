@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1971,
+        "SeasonType": "REG",
+        "Week": 14,
+        "EliasID": null,
+        "GsisID": "00-0012204",
+        "JerseyNumber": "0",
+        "LastName": "Van Note",
+        "FootballName": "Jeff",
+        "FirstName": "Jefferey",
+        "Position": "C",
+        "PositionDescription": "Center",
+        "EntryYear": 1969,
+        "RookieYear": 1969,
+        "Height": "6'02\"",
+        "Weight": 268,
+        "Birthdate": "1946-02-07T00:00:00",
+        "DraftClub": "ATL",
+        "DraftNumber": 262,
+        "Draftround": 11,
+        "CurrentClub": "ATL",
+        "College": "Kentucky",
+        "CollegeConference": "Southeastern Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 16216
+    }
+]

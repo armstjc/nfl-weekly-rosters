@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1971,
+        "SeasonType": "REG",
+        "Week": 11,
+        "EliasID": null,
+        "GsisID": "00-0008127",
+        "JerseyNumber": "0",
+        "LastName": "Jackson",
+        "FootballName": "Harold",
+        "FirstName": "Harold",
+        "Position": "WR",
+        "PositionDescription": "Wide Receiver",
+        "EntryYear": 1968,
+        "RookieYear": 1968,
+        "Height": "5'10\"",
+        "Weight": 175,
+        "Birthdate": "1946-01-06T00:00:00",
+        "DraftClub": "LA",
+        "DraftNumber": 323,
+        "Draftround": 12,
+        "CurrentClub": "PHI",
+        "College": "Jackson State",
+        "CollegeConference": "Southwestern Athletic Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 9399
+    }
+]

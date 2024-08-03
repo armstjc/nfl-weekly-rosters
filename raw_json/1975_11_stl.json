@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1975,
+        "SeasonType": "REG",
+        "Week": 11,
+        "EliasID": "YOU524556",
+        "GsisID": "00-0018403",
+        "JerseyNumber": "0",
+        "LastName": "Young",
+        "FootballName": "Bob",
+        "FirstName": "Bob",
+        "Position": "G",
+        "PositionDescription": "Guard",
+        "EntryYear": 1966,
+        "RookieYear": 1966,
+        "Height": "6'01\"",
+        "Weight": 279,
+        "Birthdate": "1942-09-03T00:00:00",
+        "DraftClub": null,
+        "DraftNumber": null,
+        "Draftround": null,
+        "CurrentClub": "STL",
+        "College": "Howard Payne",
+        "CollegeConference": "American Southwest Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 17453
+    }
+]

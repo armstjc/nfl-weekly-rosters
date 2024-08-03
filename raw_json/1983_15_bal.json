@@ -1,0 +1,29 @@
+[
+    {
+        "Season": 1983,
+        "SeasonType": "REG",
+        "Week": 15,
+        "EliasID": null,
+        "GsisID": "00-0010585",
+        "JerseyNumber": "0",
+        "LastName": "Maxwell",
+        "FootballName": "Vernon",
+        "FirstName": "Vernon",
+        "Position": "OLB",
+        "PositionDescription": "Outside Linebacker",
+        "EntryYear": 1983,
+        "RookieYear": 1983,
+        "Height": "6'02\"",
+        "Weight": 235,
+        "Birthdate": "1961-10-25T00:00:00",
+        "DraftClub": "BAL",
+        "DraftNumber": 29,
+        "Draftround": 2,
+        "CurrentClub": "BAL",
+        "College": "Arizona State",
+        "CollegeConference": "Pacific Ten Conference",
+        "StatusDescriptionAbbr": "A01",
+        "StatusShortDescription": "Active",
+        "Playerid": 11322
+    }
+]
