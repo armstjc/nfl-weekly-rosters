@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 import time
 from os.path import isfile
@@ -10,12 +11,18 @@ from tqdm import tqdm
 def convert_height(height_str: str) -> int:
     """ """
     # "6'02"""
-    if height_str == None or height_str == "":
+    if height_str is None or height_str == "":
         return 0
+    height_str = height_str.replace("''", '"')
     height_str = height_str.replace('"', "")
-    height_ft, height_in = height_str.split("'")
+    height_ft, height_in = height_str.split("'", maxsplit=1)
+    height_ft = height_ft.replace("'", "")
+    height_in = height_in.replace("'", "")
     height_ft = int(height_ft)
-    height_in = int(height_in)
+    try:
+        height_in = int(height_in)
+    except ValueError:
+        height_in = 0
     return (height_ft * 12) + height_in
 
 
@@ -173,6 +180,7 @@ def get_all_weekly_rosters(season: int) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    for i in range(1971, 2002):
+    now = datetime.now()
+    for i in range(2015, now.year+1):
         print(f"Getting Rosters for the {i} season.")
         get_all_weekly_rosters(season=i)
