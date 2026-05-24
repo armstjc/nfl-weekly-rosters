@@ -176,11 +176,15 @@ def get_all_weekly_rosters(season: int) -> pd.DataFrame:
         temp_df = get_team_weekly_rosters(team_id=team_id, season=season)
         rosters_df_arr.append(temp_df)
     rosters_df = pd.concat(rosters_df_arr, ignore_index=True)
+
+    rosters_df.sort_values(
+        by=["season", "week", "team"]
+    )
     rosters_df.to_csv(f"csv/{season}_nfl_weekly_rosters.csv", index=False)
 
 
 if __name__ == "__main__":
     now = datetime.now()
-    for i in range(2015, now.year+1):
+    for i in range(2025, now.year+1):
         print(f"Getting Rosters for the {i} season.")
         get_all_weekly_rosters(season=i)
